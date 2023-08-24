@@ -14,6 +14,10 @@ title: Sheesh
 <p>Go biking</p>
 <p>Watch TV</p>
 
+<h2>Pls sub to my Youtube I need subs</h2>
+<a href ="https://www.youtube.com/channel/UCvpxPRkIg_U082tfxg2mTUg">"YouTube"</a>
+
+
 
 ## Important resources for this class:
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
